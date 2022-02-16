@@ -1,5 +1,5 @@
 # Auto whatsapp group creation using python
-* Automatically create whatsapp group for specific contacts using python.  
+* Automatically create multiple whatsapp group for specific contacts using python.  
 * You can create groups how much you want. 
 
 ## Requirements

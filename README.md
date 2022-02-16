@@ -21,8 +21,8 @@ from pyautogui import hotkey, press, typewrite
 hotkey('alt', 'tab')
 
 # short key for open create new group in whatsapp web
-# hotkey('ctrl', 'shift', 'n' )
-hotkey('ctrl', 'alt','shift', 'n' )
+hotkey('ctrl', 'shift', 'n' )
+
 # Specify how many groups you want to create
 no_of_group = 1
 

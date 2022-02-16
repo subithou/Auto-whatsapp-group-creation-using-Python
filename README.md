@@ -17,10 +17,10 @@ pip install pyautogui
 from time import time
 from pyautogui import hotkey, press, typewrite 
 
-# move to whatsapp web 
+# move to whatsapp desktop version
 hotkey('alt', 'tab')
 
-# short key for open create new group in whatsapp web
+# short key for open create new group in whatsapp desktop version
 hotkey('ctrl', 'shift', 'n' )
 
 # Specify how many groups you want to create
